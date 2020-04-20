@@ -1,27 +1,25 @@
 html {
-    font-family: arial;
+  font-family: arial;
 }
 
 button {
-    display: block;
-    margin: 20px auto 50px;
-    background-color: #fff;
-    border: 2px solid black;
-    padding: 20px 50px;
-    font-size: 22px;
-    cursor: pointer;
-    transition: 0.2s;
-
+  display: block;
+  margin: 20px auto 50px;
+  background-color: #fff;
+  border: 2px solid black;
+  padding: 20px 50px;
+  font-size: 22px;
+  cursor: pointer;
+  transition: 0.2s;
 }
 
 button:hover {
-    background-color: black;
-    color: white
+  background-color: black;
+  color: white;
 }
 
 div {
-    margin: 10px;
-    font-size: 26px;
-    text-align: center;
-
+  margin: 10px;
+  font-size: 26px;
+  text-align: center;
 }
